@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "main": "greet.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
